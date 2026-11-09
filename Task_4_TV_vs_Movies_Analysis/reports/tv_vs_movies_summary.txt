@@ -1,0 +1,24 @@
+Auspify Technologies - Task 4: TV Shows vs. Movies Statistical Comparison
+================================================================================
+
+1. Catalog Proportion:
+   - Movies: 6126 (69.69%)
+   - TV Shows: 2664 (30.31%)
+   - Key Insight: Netflix catalog is predominantly movie-heavy (approx. 70% share).
+
+2. Temporal Trend (2008 - Present):
+   - Movie additions peaked sharply around 2019.
+   - TV Shows maintain a steady, resilient growth rate supporting high subscriber retention.
+
+3. Duration Statistics:
+   - Movies:
+     * Mean Duration: 99.6 minutes
+     * Median Duration: 98 minutes
+     * Standard Deviation: 28.3 minutes
+   - TV Shows:
+     * Overwhelming majority consist of Season 1 only (~67%), highlighting rapid series experimentation.
+
+Generated Visualizations:
+- visualizations/movies_vs_tv_distribution.png
+- visualizations/content_trend_by_year.png
+- visualizations/duration_analysis.png

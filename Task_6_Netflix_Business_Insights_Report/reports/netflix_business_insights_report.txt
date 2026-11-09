@@ -1,0 +1,31 @@
+================================================================================
+EXECUTIVE BUSINESS INTELLIGENCE REPORT: NETFLIX GLOBAL CATALOG
+Prepared for: Auspify Technologies Data Analysis Internship (Task 6)
+================================================================================
+
+1. STRATEGIC CATALOG COMPOSITION:
+   - Total Analyzed Titles: 8,790
+   - Content Mix: 6,126 Movies (69.7%) vs. 2,664 TV Shows (30.3%)
+   - Business Observation: Catalog prioritizes rapid-consumption feature films, while TV shows drive ongoing recurring monthly subscription retention.
+
+2. GLOBAL MARKET CONCENTRATION:
+   - Primary Markets: United States and India together represent 48.9% of total catalog volume.
+   - Growth Opportunity: Regional content acquisition in emerging European and Latin American markets remains an underpenetrated growth vector.
+
+3. AUDIENCE TARGETING & SEGMENTATION:
+   - Mature Demographics: Content classified as Mature/Adult (TV-MA, R) represents 45.6% of the portfolio.
+   - Family/Youth Balance: PG-13 and TV-14 ratings constitute the core balance, supporting household co-viewing.
+
+4. CONTENT LIFECYCLE & RETENTION DYNAMICS:
+   - Movie Duration Sweet Spot: Median duration is 98 minutes. Runtimes past 130 minutes drop steeply.
+   - Series Churn vs. Renewal: 67.2% of all series in the catalog terminate after Season 1, demonstrating an aggressive pilot-screening and cost-pruning operational model.
+
+5. ACTIONABLE STRATEGIC RECOMMENDATIONS:
+   - Diversify Production Beyond US/India to curb foreign licensing cost inflation.
+   - Support mid-tier successful series to transition into Season 2+ to reduce customer churn.
+   - Standardize feature film budgets towards the high-retention 90-105 minute runtime bracket.
+
+Deliverables Created:
+- Multi-panel Visual Dashboard: visualizations/executive_business_dashboard.png
+- Comprehensive Strategy Memo: reports/netflix_business_insights_report.txt
+================================================================================

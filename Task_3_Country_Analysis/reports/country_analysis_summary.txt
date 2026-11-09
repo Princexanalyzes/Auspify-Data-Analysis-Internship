@@ -1,0 +1,14 @@
+Auspify Technologies - Task 3: Country-Wise Netflix Content Analysis
+========================================================================
+
+Key Insights:
+1. Top Producing Nation: United States leads globally with 3,240 titles.
+2. Second Highest: India holds the #2 spot with 1,057 titles, heavily dominated by feature films.
+3. Content Format Preference:
+   - India and United States produce significantly more Movies than TV Shows.
+   - United Kingdom shows a relatively balanced mix between series and movies.
+4. Total Unique Records Analyzed: 8,790 cleaned Netflix titles.
+
+Generated Outputs:
+- visualizations/top_10_countries.png
+- visualizations/movie_tv_split_top5.png
